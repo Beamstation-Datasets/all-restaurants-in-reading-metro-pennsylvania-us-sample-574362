@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8a4ebcc9-d8e4-45a1-ac97-f67a426afc65",
+  "id_short": 574362,
+  "published_at": "2026-04-13T19:30:49Z",
+  "repo_name": "all-restaurants-in-reading-metro-pennsylvania-us-sample-574362",
+  "sample_asset_name": "beamstation_574362_restaurants-us-readingpa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/574362/beamstation_574362_restaurants-us-readingpa_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "f5cb5c803f8da0a39e4e1756cd209c49ca975e5ba714aa32effcc518c2e27d57",
+  "sample_size_bytes": 115062,
+  "total_records": 536
+}
