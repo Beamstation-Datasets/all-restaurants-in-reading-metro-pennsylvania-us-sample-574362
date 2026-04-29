@@ -9,9 +9,9 @@
 | Dataset ID | `574362` |
 | Location | Reading, PA |
 | Category | Restaurants |
-| Full dataset size | 679 records |
-| Free sample size | 67 records (9.87%) |
-| Last export | 2026-04-21T19:03:08.585732+00:00 |
+| Full dataset size | 672 records |
+| Free sample size | 67 records (9.97%) |
+| Last export | 2026-04-28T20:33:03.078965+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-reading-metro-pennsylvania-us-sample-574362/releases/download/sample-latest/beamstation_574362_restaurants-us-readingpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
